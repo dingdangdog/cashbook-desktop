@@ -25,5 +25,5 @@ pnpm-lock.yaml
 ### Mac OS ###
 .DS_Store
 
-/source/server/resources/**/*
+/source/server/resources/app/data/*
 /source/server/cashbook.log
