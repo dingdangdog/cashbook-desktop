@@ -88,7 +88,7 @@ Cashbook记账本。
 
 ## Star
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dingdangdog/cashbook&type=Date)](https://star-history.com/#dingdangdog/cashbook&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=dingdangdog/cashbook&type=Date)](https://star-history.dera.page/#dingdangdog/cashbook&Date)
 
 ## 贡献者（Contributor）
 
